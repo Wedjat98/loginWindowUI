@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="img">
+    <file>side-img.jpg</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>icons/icon_facebook.png</file>
+    <file>icons/icon-close.png</file>
+    <file>icons/icon-line.png</file>
+    <file>icons/QQ.png</file>
+    <file>icons/twitter.png</file>
+    <file>icons/二维码.png</file>
+    <file>icons/微信.png</file>
+  </qresource>
+</RCC>
